@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Favorite Books</string>
+    
+    <string name="book_gone_with_the_wind">Gone with the wind</string>
+    <string name="author_gone_with_the_wind">Margaret Mitchell</string>
+    
+    <string name="book_martin_eden">Martin Eden</string>
+    <string name="author_martin_eden">Jack London</string>
+    
+    <string name="book_jane_eyre">Jane Eyre</string>
+    <string name="autho_jane_eyre">Charlotte Bronte</string>
+
+    <string name="book_the_tenant_of_wildfell_hall">The tenant of Wildfell Hall </string>
+    <string name="author_the_tenant_of_wildfell_hall">Anne Bronte</string>
+
+    <string name="book_three_comrades">Three comrades </string>
+    <string name="author_three_comrades">Erich Maria Remarque</string>
+
+    <string name="book_perfumer">Perfumer.
+        The story of a killer</string>
+
+    <string name="author_perfumer">Patrick Suskind</string>
+
+    <string name="book_dandelion_wine">Dandelion wine</string>
+    <string name="author_dandelion_wine">Ray Bradbury</string>
+</resources>
